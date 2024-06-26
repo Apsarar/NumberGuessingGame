@@ -1,2 +1,2 @@
 # NumberGuessingGame
-In this game, the computer randomly selects a number below the user input, and the player has to guess what that number is.
+Designed to assist learners in learning Python programming, the Number Guessing Game is an easy-to-implement and entertaining project. In this game, the player must guess the number that the computer has randomly chosen to appear below the user's input. The computer gives feedback after every guess, stating whether it was accurate or too high or low. Until the player guesses the right number, the game goes on.
